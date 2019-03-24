@@ -1,4 +1,4 @@
-# This is a different approach to the contactBook app using a live mongoDB database, where the previous version of the app was using vectors a text file as a database (https://github.com/itsGamburian/contactBookVectors).
+# This is a different approach to the contactBook app using a live mongoDB database, where the previous version of the app was using vectors and a text file as a database (https://github.com/itsGamburian/contactBookVectors).
 
 ## First clone the repo.
 ## From there, the project can be opened in IntelliJ IDEA and ran from there.
